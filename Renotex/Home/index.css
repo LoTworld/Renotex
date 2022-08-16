@@ -1,0 +1,85 @@
+.firstBackground{
+	background-image: url('./Renotex Main-2.png');
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+div *{
+	height: auto;
+}
+
+nav{
+	/*background-color:  rgba(0, 0, 0, 0.4);*/
+	background-color: white;
+	display: flex;
+	width: 100%;
+	
+}
+
+.topNav{
+	background-color: #5C898F;
+}
+.uk-navbar-container{
+	background-color: whitesmoke !important;
+}
+
+
+.card-body{
+	margin-top:  -5%;
+}
+
+.two{
+/*background-color: rgba(175, 179, 182, 0.3);*/		
+}
+
+.maintenance{
+	background-color: rgba(0, 0, 0, 0.0225);
+}
+.maintenance2{
+	background-color: lightskyblue;
+	
+}
+.maintenancePicture{
+	padding-top: 35%;
+	margin-top: 25%;
+
+}
+.cleaningMethod{
+	padding-top: 15%;
+	background-color: lightskyblue;
+}
+
+.moreAbout{
+	background-color: rgba(0, 0, 0, 0.0225);
+}
+
+.moreAbout2{
+	background-color: lightskyblue;
+/*	border-left-style: solid;
+	border-top-left-radius: 85%;
+	border-color: transparent;*/
+}
+
+@font-face{
+	font-family: Acumin Pro Extra Light;
+	src: url(FontsFree-Net-Acumin-Pro-ExtraLight.ttf);
+	}
+	
+.mainheadertext *{
+font-family: Acumin Pro Extra Light;
+
+}
+
+.card-body * {
+	font-family: Acumin Pro Extra Light;
+}
+
+.card-title{
+	font-family: Acumin Pro Extra Light;
+	font-weight: bold;
+}
+
+div *{
+	font-family: Acumin Pro Extra Light;
+	font-weight: light;
+}
