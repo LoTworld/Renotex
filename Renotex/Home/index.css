@@ -1,9 +1,4 @@
-.firstBackground{
-	background-image: url('./Renotex Main-2.png');
-	background-repeat: no-repeat;
-	background-position: center;
 
-}
 div *{
 	height: auto;
 }
@@ -49,17 +44,6 @@ nav{
 	background-color: lightskyblue;
 }
 
-.moreAbout{
-	background-color: rgba(0, 0, 0, 0.0225);
-}
-
-.moreAbout2{
-	background-color: lightskyblue;
-/*	border-left-style: solid;
-	border-top-left-radius: 85%;
-	border-color: transparent;*/
-}
-
 @font-face{
 	font-family: Acumin Pro Extra Light;
 	src: url(FontsFree-Net-Acumin-Pro-ExtraLight.ttf);
@@ -79,7 +63,15 @@ font-family: Acumin Pro Extra Light;
 	font-weight: bold;
 }
 
+.card-text * {
+	color: black !important;
+}
+
 div *{
 	font-family: Acumin Pro Extra Light;
 	font-weight: light;
+}
+
+#home-text{
+	font-size: 64px !important;
 }
